@@ -1,9 +1,9 @@
 {
-  "homepage": "https://thenmozhiloganathan.github.io/Ai-Mental-Health-Analyzer",
   "name": "vite-react-typescript-starter",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://thenmozhiloganathan.github.io/Ai-Mental-Health-Analyzer",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
